@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with React-Native front-end developer
 - 🥅 2023 Goals: My objective for the year is to secure a position in the front-end field and further develop my skills 🏋️
 - ⚡ Fun fact: I love to theater 🎭, reading books 📖 and traveling ✈️
-## ⏲ What we are doing now:
+## ⏲ What i am doing now ?
 
 📚 Gaining In-Depth Knowledge: I am dedicated to acquiring in-depth knowledge of React Native and staying up-to-date with the latest advancements in the field. I continuously explore new concepts, best practices, and emerging trends to enhance my understanding and proficiency.
 
