@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning 😂
 - 👯 I’m looking to collaborate with other React-Native developer 👩‍💻 and mobile app designers 🎨
 - 🤔 I’m looking for help with React-Native front-end developer
-- 🥅 2023 Goals: My objective for the year is to secure a position in the front-end field and further develop my skills 🏋️
+- 🥅 2024 Goals: My objective for the year is to secure a position in the front-end field and further develop my skills 🏋️
 - ⚡ Fun fact: I love to theater 🎭, reading books 📖 and traveling ✈️
 ## ⏲ What i am doing now ?
 
